@@ -1,0 +1,5 @@
+"Hello"
+"Hi"
+"What's Up?"
+"Greetings"
+"How can I help you?"

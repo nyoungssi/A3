@@ -1,0 +1,5 @@
+"angry,Why are you angry?"
+"sad,What made you feel sad?"
+"happy,That sounds great!"
+"tired,Maybe you need some rest."
+"no,Why so negative?"
